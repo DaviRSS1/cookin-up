@@ -6,7 +6,7 @@
 <sub><sup><i>// ℹ️ Projeto fictício foi desenvolvido como parte do meu estudo para aprender Vue.js.</i></sup></sub>
 
 ## 📁 Acesso ao Projeto
-Para acessar o projeto, clique [aqui](https://cookin-up-tau.vercel.app/).
+Para acessar o projeto, clique <a href="https://cookin-up-tau.vercel.app/" target="_blank">aqui</a>.
 
 ## ✔️ Tecnologias Utilizadas
 - HTML

@@ -1,42 +1,22 @@
-# cookin-up
+# <h1 align="center">Cookin Up!</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
+  <img src="https://img.shields.io/github/license/DaviRSS1/aluroni">
+</p>
+<sub><sup><i>// ℹ️ Projeto fictício foi desenvolvido como parte do meu estudo para aprender Vue.js.</i></sup></sub>
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📁 Acesso ao Projeto
+Para acessar o projeto, clique [aqui](https://cookin-up-tau.vercel.app/).
 
-## Recommended IDE Setup
+## ✔️ Tecnologias Utilizadas
+- HTML
+- SASS
+- TypeScript
+- Vue.js
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## ℹ️ Sobre o Projeto
+Este é o meu primeiro projeto usando Vue.js. Ele foi desenvolvido como parte do meu estudo para aprender sobre essa tecnologia incrível.
 
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
-
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
-
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-"# cookin-up" 
-"# cookin-up" 
+## Autor
+**Davi Reghim de Salles Santana**  
+LinkedIn: [Davi Reghim](https://www.linkedin.com/in/davi-reghim-13b995272/)

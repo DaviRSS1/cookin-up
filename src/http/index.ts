@@ -1,5 +1,5 @@
 import type ICategoria from "@/interfaces/ICategoria";
-import type IReceita from "@/interfaces/IReceita";
+import type IReceitas from "../interfaces/IReceitas";
 
 async function obterDadosURL<T>(url: string) {
   const resposta = await fetch(url);
@@ -11,5 +11,5 @@ export async function obterCategorias() {
 }
 
 export async function obterReceitas() {
-  return obterDadosURL<IReceita[]>('https://gist.githubusercontent.com/antonio-evaldo/002ad55e1cf01ef3fc6ee4feb9152964/raw/bf463b47860043da3b3604ca60cffc3ad1ba9865/receitas.json');
+  return obterDadosURL<IReceitas[]>('https://gist.githubusercontent.com/antonio-evaldo/002ad55e1cf01ef3fc6ee4feb9152964/raw/bf463b47860043da3b3604ca60cffc3ad1ba9865/receitas.json');
 }

@@ -1,9 +1,9 @@
 <script lang="ts">
 import { obterReceitas } from '@/http';
-import IReceitas from '@/interfaces/IReceitas';
+import type IReceitas from '../interfaces/IReceitas';
 import CardReceita from './CardReceita.vue';
 import BotaoPrimario from './BotaoPrimario.vue';
-import { PropType } from 'vue';
+import { type PropType } from 'vue';
 import { itemDeLista1EstaoEmLista2 } from '@/operacoes/listas';
 
 export default {

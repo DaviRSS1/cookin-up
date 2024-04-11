@@ -10,7 +10,7 @@ Para acessar o projeto, clique <a href="https://cookin-up-tau.vercel.app/" targe
 
 ## ✔️ Tecnologias Utilizadas
 - HTML
-- SASS
+- CSS
 - TypeScript
 - Vue.js
 
